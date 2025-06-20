@@ -35,12 +35,8 @@
  частью команды для создания качественных мобильных решений.</p>
 
 <p align="center">
- <img width="600" src="https://assets.pinterest.com/ext/embed.html?id=43628690127781141" alt="snake"/>
+ <img height="300" width="300" src="Me At Work GIF - Cat Work Typing - Discover & Share GIFs.gif"/>
 </p>
-
-###
-
-<h3 align="left">🛠 Технологии:</h3>
 
 ###
 ## My Skill Set  
@@ -56,14 +52,6 @@
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
