@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://dribbble.com/shots/975617-working-gif?utm_source=Clipboard_Shot&utm_campaign=simono&utm_content=working%20gif&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=simono&utm_content=working%20gif&utm_medium=Social_Share"  />
+  <img height="300" width="600" src="working gif.gif"  />
 </div>
 
 ###
